@@ -1,6 +1,14 @@
 # 📚 Tugas Machine Learning
 ### Supervised & Unsupervised Learning
 
+<div align="left">
+
+**Nama:** Tasya Triani  
+**NPM:** G1A024019  
+**Program Studi:** Informatika
+
+</div>
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised%20%26%20Unsupervised-green)
@@ -94,8 +102,5 @@ Selain itu, praktik ini memberikan pemahaman mengenai **preprocessing, reduksi d
 ---
 
 <div align="center">
-
-### 👩‍💻 Machine Learning Assignment
-**Chapter 2 & Chapter 3**
 
 </div>
